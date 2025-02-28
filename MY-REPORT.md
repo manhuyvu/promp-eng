@@ -28,6 +28,7 @@ How well an LLM can come up with a requirement analysis for developing an RPG vi
 
 * It will be easier to create templates for requirement analyses
 * We will better understand how to refine prompts to find better solutions
+* For this assignment: I'm aiming for 9 because I worked with a prompt method that was given, a new prompt method, as well as experiment with varying the hyperparamters with results. 
 
 # Results
 
